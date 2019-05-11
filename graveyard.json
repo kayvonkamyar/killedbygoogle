@@ -1,4 +1,12 @@
 [
+   { 
+   "dateClose": "2019-94-02", 
+   "dateOpen": "2004", 
+   "description": "Google Tasks canvas (or just Tasks Canvas) was a webpage that displayed all your google tasks.It offered indent tools, subtasks and more.", 
+   "link": "https://www.ghacks.net/2019/02/06/google-is-shutting-down-the-classic-google-tasks-web-interface/", 
+   "name": "Google tasks canvas", 
+   "type": "service" 
+ }, 
   {
     "dateClose": "2017-09-20",
     "dateOpen": "2010-06-15",
