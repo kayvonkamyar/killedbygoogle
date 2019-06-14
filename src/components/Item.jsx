@@ -26,6 +26,7 @@ const eolIdiom = () => {
     'Bites the big one',
     'Off to the glue factory',
     'Another one bites the dust',
+    'Another {grave.name}',
   ];
   return items[Math.floor(Math.random() * items.length)];
 };
